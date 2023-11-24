@@ -1,0 +1,10 @@
+!.gitignore
+**/node_modules
+node_modules
+**/*.ptau
+**/*.zkey
+**/*.r1cs
+**/*.sym
+**/*.asm
+**/*.dat
+**/*.wasm
